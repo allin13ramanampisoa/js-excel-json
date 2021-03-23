@@ -1,1 +1,3082 @@
-[{"nom":"Allin","quantite":5,"pu":20000},{"nom":"Haja","quantite":3,"pu":250000},{"nom":"Beloha","quantite":6,"pu":468},{"nom":"Japs","quantite":2,"pu":48200},{"nom":"James","quantite":0,"pu":5464000}]
+[
+  {
+    "designation": "Filtre Hydraulique",
+    "reference": "H-2728",
+    "code": "FIHYQ0042",
+    "quantite": 4,
+    "prixUnitaire": 0
+  },
+  {
+    "designation": "Filtre Hydraulique",
+    "reference": "HC-55170",
+    "code": "FIHYQ0069",
+    "quantite": 6,
+    "prixUnitaire": 0
+  },
+  {
+    "designation": "Filtre Hydraulique",
+    "reference": "HC-5512",
+    "code": "FIHYQ0053",
+    "quantite": 4,
+    "prixUnitaire": 271111
+  },
+  {
+    "designation": "Filtre Hydraulique",
+    "reference": "HC-7901",
+    "code": "FIHYQ0071",
+    "quantite": 12,
+    "prixUnitaire": 42646
+  },
+  {
+    "designation": "Filtre Hydraulique",
+    "reference": "HC-6802",
+    "code": "FIHYQ0038",
+    "quantite": 6,
+    "prixUnitaire": 79179
+  },
+  {
+    "designation": "Filtre de Refroidissement",
+    "reference": "WC-57010",
+    "code": "FIRFD0012",
+    "quantite": 0,
+    "prixUnitaire": 133596
+  },
+  {
+    "designation": "Filtre Séparateur gasoil/eau",
+    "reference": "SFC-5705",
+    "code": "FISGE0017",
+    "quantite": 0,
+    "prixUnitaire": 47929
+  },
+  {
+    "designation": "Filtre Séparateur",
+    "reference": "SFC-7939-30",
+    "code": "FISGE0051",
+    "quantite": 4,
+    "prixUnitaire": 98838
+  },
+  {
+    "designation": "Filtre Separateur",
+    "reference": "SFC-7604",
+    "code": "FISGE0027",
+    "quantite": 3,
+    "prixUnitaire": 48960
+  },
+  {
+    "designation": "Filtre Séparateur Gasoil/Eau",
+    "reference": "SFC-5521",
+    "code": "FISGE0061",
+    "quantite": 0,
+    "prixUnitaire": 193264
+  },
+  {
+    "designation": "Filtre separateur Gasoil/Eau",
+    "reference": "SFC-24030",
+    "code": "FISGE74",
+    "quantite": 4,
+    "prixUnitaire": 74453
+  },
+  {
+    "designation": "Filtre Separateur Gaoil / Eau",
+    "reference": "SFC-5504-10",
+    "code": "FISGE0072",
+    "quantite": 40,
+    "prixUnitaire": 92616
+  },
+  {
+    "designation": "Filtre Séparateur",
+    "reference": "SFC-7912-30",
+    "code": "FISGE0071",
+    "quantite": 1,
+    "prixUnitaire": 0
+  },
+  {
+    "designation": "Filtre à Gasoil",
+    "reference": "SFC-5707",
+    "code": "FISGE0011",
+    "quantite": 0,
+    "prixUnitaire": 118830
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "15201-Z9001",
+    "code": "FIHUI0249",
+    "quantite": 4,
+    "prixUnitaire": 0
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "15208-61525",
+    "code": "FIHUI0085",
+    "quantite": 3,
+    "prixUnitaire": 19513
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-6102(15208-Z9001)",
+    "code": "FIHUI0017",
+    "quantite": 12,
+    "prixUnitaire": 41750
+  },
+  {
+    "designation": "Filtre à Gasoil",
+    "reference": "9-13240032-0",
+    "code": "FIGSO0073",
+    "quantite": 91,
+    "prixUnitaire": 0
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "EO-2404",
+    "code": "FIHUI0110",
+    "quantite": 7,
+    "prixUnitaire": 30062
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "EO-1102",
+    "code": "FIHUI0218",
+    "quantite": 40,
+    "prixUnitaire": 0
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "EO-1801",
+    "code": "FIHUI0219",
+    "quantite": 40,
+    "prixUnitaire": 21008
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "EO-1802",
+    "code": "FIHUI0220",
+    "quantite": 96,
+    "prixUnitaire": 16948
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "O-1006",
+    "code": "FIHUI0221",
+    "quantite": 10,
+    "prixUnitaire": 34514
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "O-7950",
+    "code": "FIHUI0099",
+    "quantite": 8,
+    "prixUnitaire": 0
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "O-2612",
+    "code": "FIHUI0028",
+    "quantite": 24,
+    "prixUnitaire": 23598
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "O-1811",
+    "code": "FIHUI0250",
+    "quantite": 12,
+    "prixUnitaire": 22185
+  },
+  {
+    "designation": "Filtre Separateur Gasoil / Eau",
+    "reference": "SF-52150",
+    "code": "FISGE0013",
+    "quantite": 2,
+    "prixUnitaire": 8168
+  },
+  {
+    "designation": "Filtre Separateur Gasoil / Eau",
+    "reference": "SF-79060-10",
+    "code": "FISGE0014",
+    "quantite": 100,
+    "prixUnitaire": 15776
+  },
+  {
+    "designation": "Prefiltre gasoil",
+    "reference": "SF-1911-30",
+    "code": "FISGE0041",
+    "quantite": 12,
+    "prixUnitaire": 18462
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-7005",
+    "code": "FIHUI0037",
+    "quantite": 5,
+    "prixUnitaire": 106772
+  },
+  {
+    "designation": "Filtre à huile",
+    "reference": "C-57360",
+    "code": "FIHUI0217",
+    "quantite": 0,
+    "prixUnitaire": 215196
+  },
+  {
+    "designation": "Filtre à huile",
+    "reference": "C-1710",
+    "code": "FIHUI0216",
+    "quantite": 40,
+    "prixUnitaire": 0
+  },
+  {
+    "designation": "Filtre à huile",
+    "reference": "C-1109XPL",
+    "code": "FIHUI0215",
+    "quantite": 10,
+    "prixUnitaire": 12358
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-1109",
+    "code": "FIHUI0106",
+    "quantite": 40,
+    "prixUnitaire": 12505
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-1011",
+    "code": "FIHUI0050",
+    "quantite": 46,
+    "prixUnitaire": 11769
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "TC-5501",
+    "code": "FIHUI0127",
+    "quantite": 14,
+    "prixUnitaire": 46751
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-1121",
+    "code": "FIHUI0067",
+    "quantite": 388,
+    "prixUnitaire": 21104
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-6204",
+    "code": "FIHUI0077",
+    "quantite": 15,
+    "prixUnitaire": 37206
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-5718",
+    "code": "FIHUI0029",
+    "quantite": 0,
+    "prixUnitaire": 86186
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-5101",
+    "code": "FIHUI0071",
+    "quantite": 0,
+    "prixUnitaire": 45891
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-71060",
+    "code": "FIHUI0019",
+    "quantite": 0,
+    "prixUnitaire": 67320
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-1802",
+    "code": "FIHUI0059",
+    "quantite": 90,
+    "prixUnitaire": 13613
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-5717",
+    "code": "FIHUI0016",
+    "quantite": 0,
+    "prixUnitaire": 53636
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-5516",
+    "code": "FIHUI0137",
+    "quantite": 7,
+    "prixUnitaire": 80913
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-5502",
+    "code": "FIHUI0222",
+    "quantite": 0,
+    "prixUnitaire": 81226
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-7942",
+    "code": "FIHUI0098",
+    "quantite": 0,
+    "prixUnitaire": 83809
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-1812",
+    "code": "FIHUI0069",
+    "quantite": 79,
+    "prixUnitaire": 29808
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-1504",
+    "code": "FIHUI0011",
+    "quantite": 40,
+    "prixUnitaire": 40173
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-1002",
+    "code": "FIHUI0057",
+    "quantite": 7,
+    "prixUnitaire": 0
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-2506",
+    "code": "FIHUI0055",
+    "quantite": 4,
+    "prixUnitaire": 12707
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-7601",
+    "code": "FIHUI0042",
+    "quantite": 42,
+    "prixUnitaire": 55907
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-7905",
+    "code": "FIHUI0020",
+    "quantite": 0,
+    "prixUnitaire": 63240
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-1304",
+    "code": "FIHUI0025",
+    "quantite": 50,
+    "prixUnitaire": 58018
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-7008",
+    "code": "FIHUI0018",
+    "quantite": 0,
+    "prixUnitaire": 57977
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-7937",
+    "code": "FIHUI0023",
+    "quantite": 0,
+    "prixUnitaire": 45674
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-7607",
+    "code": "FIHUI0078",
+    "quantite": 18,
+    "prixUnitaire": 36804
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-5809",
+    "code": "FIHUI0039",
+    "quantite": 14,
+    "prixUnitaire": 81933
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-5711",
+    "code": "FIHUI0031",
+    "quantite": 3,
+    "prixUnitaire": 90257
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-5722",
+    "code": "FIHUI0032",
+    "quantite": 54,
+    "prixUnitaire": 104023
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-5504",
+    "code": "FIHUI0073",
+    "quantite": 34,
+    "prixUnitaire": 34606
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-5708",
+    "code": "FIHUI0075",
+    "quantite": 7,
+    "prixUnitaire": 32606
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-5701",
+    "code": "FIHUI0030",
+    "quantite": 0,
+    "prixUnitaire": 92310
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-1701",
+    "code": "FIHUI0105",
+    "quantite": 20,
+    "prixUnitaire": 29057
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-1820",
+    "code": "FIHUI0060",
+    "quantite": 10,
+    "prixUnitaire": 13613
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-5705",
+    "code": "FIHUI0015",
+    "quantite": 33,
+    "prixUnitaire": 60104
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-5715",
+    "code": "FIHUI0145",
+    "quantite": 1,
+    "prixUnitaire": 74475
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-5704",
+    "code": "FIHUI0074",
+    "quantite": 43,
+    "prixUnitaire": 35928
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-5505",
+    "code": "FIHUI0014",
+    "quantite": 0,
+    "prixUnitaire": 58650
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-1008",
+    "code": "FIHUI0010",
+    "quantite": 208,
+    "prixUnitaire": 28949
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-5713",
+    "code": "FIHUI0103",
+    "quantite": 3,
+    "prixUnitaire": 74446
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-2218",
+    "code": "FIHUI0012",
+    "quantite": 0,
+    "prixUnitaire": 141270
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-2509",
+    "code": "FIHUI0013",
+    "quantite": 6,
+    "prixUnitaire": 64033
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-6101",
+    "code": "FIHUI0076",
+    "quantite": 2,
+    "prixUnitaire": 24052
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-7910",
+    "code": "FIHUI0079",
+    "quantite": 2,
+    "prixUnitaire": 25715
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-7952",
+    "code": "FIHUI0113",
+    "quantite": 4,
+    "prixUnitaire": 36480
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-7603",
+    "code": "FIHUI0081",
+    "quantite": 0,
+    "prixUnitaire": 38736
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-6402",
+    "code": "FIHUI0056",
+    "quantite": 24,
+    "prixUnitaire": 17839
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-1715",
+    "code": "FIHUI0065",
+    "quantite": 133,
+    "prixUnitaire": 40842
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-1819",
+    "code": "FIHUI0070",
+    "quantite": 4,
+    "prixUnitaire": 15884
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-1804",
+    "code": "FIHUI0068",
+    "quantite": 13,
+    "prixUnitaire": 18650
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-1511",
+    "code": "FIHUI0064",
+    "quantite": 1,
+    "prixUnitaire": 23951
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-72010",
+    "code": "FIHUI0094",
+    "quantite": 17,
+    "prixUnitaire": 75990
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-1012",
+    "code": "FIHUI0142",
+    "quantite": 48,
+    "prixUnitaire": 34442
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-1031",
+    "code": "FIHUI0153",
+    "quantite": 50,
+    "prixUnitaire": 16208
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-1112",
+    "code": "FIHUI0154",
+    "quantite": 196,
+    "prixUnitaire": 30795
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-1327",
+    "code": "FIHUI0155",
+    "quantite": 6,
+    "prixUnitaire": 69897
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-1920",
+    "code": "FIHUI0053",
+    "quantite": 40,
+    "prixUnitaire": 16208
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-5811",
+    "code": "FIHUI0101",
+    "quantite": 12,
+    "prixUnitaire": 34442
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-7302",
+    "code": "FIHUI0156",
+    "quantite": 74,
+    "prixUnitaire": 96438
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-76080",
+    "code": "FIHUI0157",
+    "quantite": 24,
+    "prixUnitaire": 56728
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-8504",
+    "code": "FIHUI0158",
+    "quantite": 9,
+    "prixUnitaire": 56728
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-5724",
+    "code": "FIHUI0033",
+    "quantite": 119,
+    "prixUnitaire": 156036
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-7939",
+    "code": "FIHUI0044",
+    "quantite": 0,
+    "prixUnitaire": 81600
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-2105",
+    "code": "FIHUI0054",
+    "quantite": 7,
+    "prixUnitaire": 18699
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-6205",
+    "code": "FIHUI0135",
+    "quantite": 5,
+    "prixUnitaire": 16693
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-5105",
+    "code": "FIHUI0111",
+    "quantite": 16,
+    "prixUnitaire": 95795
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-1149",
+    "code": "FIHUI0052",
+    "quantite": 179,
+    "prixUnitaire": 14841
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-5707",
+    "code": "FIHUI0093",
+    "quantite": 0,
+    "prixUnitaire": 118830
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-1903",
+    "code": "FIHUI0139",
+    "quantite": 21,
+    "prixUnitaire": 28050
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-1103",
+    "code": "FIHUI0058",
+    "quantite": 91,
+    "prixUnitaire": 19060
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-5102",
+    "code": "FIHUI0072",
+    "quantite": 0,
+    "prixUnitaire": 30002
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "C-51070",
+    "code": "FIHUI0080",
+    "quantite": 13,
+    "prixUnitaire": 46335
+  },
+  {
+    "designation": "Filtre Hydraulique",
+    "reference": "HF28805",
+    "code": "FIHYQ0006",
+    "quantite": 2,
+    "prixUnitaire": 266000
+  },
+  {
+    "designation": "Filtre Separateur Gasoil / Eau",
+    "reference": "SF-1912-30",
+    "code": "FISGE0040",
+    "quantite": 0,
+    "prixUnitaire": 78540
+  },
+  {
+    "designation": "Filtre Separateur Gasoil / Eau",
+    "reference": "SF-1912-10",
+    "code": "FISGE0008",
+    "quantite": 2,
+    "prixUnitaire": 78540
+  },
+  {
+    "designation": "Filtre Separateur Gasoil / Eau",
+    "reference": "SF-1913-10",
+    "code": "FISGE0009",
+    "quantite": 26,
+    "prixUnitaire": 49367
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "O-1310",
+    "code": "FIHUI0118",
+    "quantite": 48,
+    "prixUnitaire": 38473
+  },
+  {
+    "designation": "Filtre à huile",
+    "reference": "O-1802",
+    "code": "FIHUI0163",
+    "quantite": 50,
+    "prixUnitaire": 21779
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "O-5704",
+    "code": "FIHUI0048",
+    "quantite": 2,
+    "prixUnitaire": 56272
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "O-79680",
+    "code": "FIHUI0046",
+    "quantite": 20,
+    "prixUnitaire": 262885
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "O-5504",
+    "code": "FIHUI0047",
+    "quantite": 107,
+    "prixUnitaire": 142188
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "O-1808",
+    "code": "FIHUI0041",
+    "quantite": 1,
+    "prixUnitaire": 21635
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "O-5303",
+    "code": "FIHUI0036",
+    "quantite": 9,
+    "prixUnitaire": 34490
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "O-5302",
+    "code": "FIHUI0035",
+    "quantite": 8,
+    "prixUnitaire": 39936
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "O-5702",
+    "code": "FIHUI0040",
+    "quantite": 0,
+    "prixUnitaire": 44927
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "O-6501",
+    "code": "FIHUI0026",
+    "quantite": 49,
+    "prixUnitaire": 30859
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "O-5312",
+    "code": "FIHUI0045",
+    "quantite": 42,
+    "prixUnitaire": 76000
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "O-5501",
+    "code": "FIHUI0082",
+    "quantite": 3,
+    "prixUnitaire": 21392
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "O-1805",
+    "code": "FIHUI0043",
+    "quantite": 1,
+    "prixUnitaire": 26042
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "O-2620",
+    "code": "FIHUI0062",
+    "quantite": 44,
+    "prixUnitaire": 17007
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "O-2619",
+    "code": "FIHUI0066",
+    "quantite": 0,
+    "prixUnitaire": 26010
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "PO-83010",
+    "code": "FIHUI0049",
+    "quantite": 103,
+    "prixUnitaire": 20501
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "SO 9135",
+    "code": "FIHUI0003",
+    "quantite": 0,
+    "prixUnitaire": 92760
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "LF3786",
+    "code": "FIHUI0008",
+    "quantite": 4,
+    "prixUnitaire": 28764
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "LF3564",
+    "code": "FIHUI0001",
+    "quantite": 4,
+    "prixUnitaire": 40941
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "LF3618",
+    "code": "FIHUI0002",
+    "quantite": 2,
+    "prixUnitaire": 127032
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "LF3333",
+    "code": "FIHUI0005",
+    "quantite": 0,
+    "prixUnitaire": 96778
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "LF3325",
+    "code": "FIHUI0004",
+    "quantite": 0,
+    "prixUnitaire": 107908
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "LF3380",
+    "code": "FIHUI0006",
+    "quantite": 1,
+    "prixUnitaire": 132688
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "LF16149",
+    "code": "FIHUI0007",
+    "quantite": 1,
+    "prixUnitaire": 427682
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "LF3523",
+    "code": "FIHUI0009",
+    "quantite": 6,
+    "prixUnitaire": 43134
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "EO-79070",
+    "code": "FIHUI0027",
+    "quantite": 34,
+    "prixUnitaire": 38511
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "EO-5101",
+    "code": "FIHUI0038",
+    "quantite": 0,
+    "prixUnitaire": 90256
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "EO-1101",
+    "code": "FIHUI0051",
+    "quantite": 49,
+    "prixUnitaire": 15163
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "EO-25030",
+    "code": "FIHUI0107",
+    "quantite": 12,
+    "prixUnitaire": 49956
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "EO-2621",
+    "code": "FIHUI0034",
+    "quantite": 12,
+    "prixUnitaire": 62546
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "EO-1804",
+    "code": "FIHUI0247",
+    "quantite": 400,
+    "prixUnitaire": 18234
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "EO-55010",
+    "code": "FIHUI0138",
+    "quantite": 10,
+    "prixUnitaire": 69528
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "15400-PR3-004",
+    "code": "FIHUI0088",
+    "quantite": 90,
+    "prixUnitaire": 14067
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "15209-Y7502",
+    "code": "FIHUI0087",
+    "quantite": 5,
+    "prixUnitaire": 19060
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "16403-99011",
+    "code": "FIGSO0071",
+    "quantite": 6,
+    "prixUnitaire": 28589
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "90915-10002/90915-03004/90915-03001",
+    "code": "FIHUI0091",
+    "quantite": 13,
+    "prixUnitaire": 11344
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "90915-03003",
+    "code": "FIHUI0090",
+    "quantite": 28,
+    "prixUnitaire": 24506
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "ME014833",
+    "code": "FIHUI0092",
+    "quantite": 50,
+    "prixUnitaire": 24052
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "0559-23-570",
+    "code": "FIGSO0070",
+    "quantite": 11,
+    "prixUnitaire": 16790
+  },
+  {
+    "designation": "Filtre Hydraulique",
+    "reference": "A-FY02-006A-0074A",
+    "code": "FIHYQ0039",
+    "quantite": 4,
+    "prixUnitaire": 0
+  },
+  {
+    "designation": "Filtre à Gasoil",
+    "reference": "23401-1132",
+    "code": "FIGSO0072",
+    "quantite": 32,
+    "prixUnitaire": 19967
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "JX1016",
+    "code": "FIHUI0022",
+    "quantite": 4,
+    "prixUnitaire": 59850
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "01182001",
+    "code": "FIHUI0083",
+    "quantite": 1,
+    "prixUnitaire": 20649
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "15201-Z9000",
+    "code": "FIHUI0084",
+    "quantite": 3,
+    "prixUnitaire": 41750
+  },
+  {
+    "designation": "Filtre à Huile",
+    "reference": "15601-33020",
+    "code": "FIHUI0089",
+    "quantite": 25,
+    "prixUnitaire": 19060
+  },
+  {
+    "designation": "Filtre séparateur Gasoil / Eau",
+    "reference": "SFC-7109-30",
+    "code": "FISGE0044",
+    "quantite": 24,
+    "prixUnitaire": 67894
+  },
+  {
+    "designation": "Filtre Separateur Gasoil / Eau",
+    "reference": "SFC-7912-10",
+    "code": "FISGE0006",
+    "quantite": 0,
+    "prixUnitaire": 73518
+  },
+  {
+    "designation": "Filtre Separateur Gasoil / Eau",
+    "reference": "SFC-7103-30",
+    "code": "FISGE0019",
+    "quantite": 126,
+    "prixUnitaire": 71214
+  },
+  {
+    "designation": "Filtre à Gasoil",
+    "reference": "SFC-5601-02",
+    "code": "FISGE0063",
+    "quantite": 0,
+    "prixUnitaire": 122067
+  },
+  {
+    "designation": "Filtre Separateur Gasoil / Eau",
+    "reference": "SFC-1902-30",
+    "code": "FISGE0010",
+    "quantite": 24,
+    "prixUnitaire": 37680
+  },
+  {
+    "designation": "Filtre Separateur Gasoil / Eau",
+    "reference": "SFC-24020",
+    "code": "FISGE0001",
+    "quantite": 36,
+    "prixUnitaire": 63587
+  },
+  {
+    "designation": "Filtre Separateur Gasoil / Eau",
+    "reference": "SFC-5501-30",
+    "code": "FISGE0003",
+    "quantite": 8,
+    "prixUnitaire": 108717
+  },
+  {
+    "designation": "Filtre Separateur Gasoil / Eau",
+    "reference": "SFC-5301-10",
+    "code": "FISGE0002",
+    "quantite": 0,
+    "prixUnitaire": 126456
+  },
+  {
+    "designation": "Filtre Separateur Gasoil / Eau",
+    "reference": "SFC-55170",
+    "code": "FISGE0004",
+    "quantite": 9,
+    "prixUnitaire": 126480
+  },
+  {
+    "designation": "Filtre Separateur Gasoil / Eau",
+    "reference": "SFC-55250",
+    "code": "FISGE0005",
+    "quantite": 0,
+    "prixUnitaire": 98515
+  },
+  {
+    "designation": "Filtre Gasoil decanteur",
+    "reference": "SFC-7107-30",
+    "code": "FISGE0064",
+    "quantite": 10,
+    "prixUnitaire": 30512
+  },
+  {
+    "designation": "Filtre Separateur Gasoil / Eau",
+    "reference": "SFC-5706",
+    "code": "FISGE0018",
+    "quantite": 10,
+    "prixUnitaire": 59148
+  },
+  {
+    "designation": "Filtre Separateur Gasoil / Eau",
+    "reference": "FS19516/SFC-7601",
+    "code": "FISGE0039",
+    "quantite": 50,
+    "prixUnitaire": 0
+  },
+  {
+    "designation": "Filtre Separateur Gasoil / Eau",
+    "reference": "SFC-5708",
+    "code": "FISGE0015",
+    "quantite": 55,
+    "prixUnitaire": 45401
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "SFC-1905-10",
+    "code": "FIGSO0154",
+    "quantite": 72,
+    "prixUnitaire": 75792
+  },
+  {
+    "designation": "Filtre Séparateur",
+    "reference": "SFC-5711",
+    "code": "FISGE0043",
+    "quantite": 2,
+    "prixUnitaire": 96890
+  },
+  {
+    "designation": "Filtre Separateur Gasoil / Eau",
+    "reference": "SFC-2203",
+    "code": "FISGE0032",
+    "quantite": 22,
+    "prixUnitaire": 61287
+  },
+  {
+    "designation": "Filtre Separateur Gasoil / Eau",
+    "reference": "4385386 / 316-9954",
+    "code": "FISGE0012",
+    "quantite": 0,
+    "prixUnitaire": 130222
+  },
+  {
+    "designation": "Filtre de refroidissement",
+    "reference": "WC-5713",
+    "code": "FIRFD0008",
+    "quantite": 0,
+    "prixUnitaire": 83809
+  },
+  {
+    "designation": "Filtre de Refroidissement",
+    "reference": "WC-5705",
+    "code": "FIRFD0001",
+    "quantite": 0,
+    "prixUnitaire": 28364
+  },
+  {
+    "designation": "Filtre de refroidissement",
+    "reference": "WC-5703",
+    "code": "FIRFD0007",
+    "quantite": 12,
+    "prixUnitaire": 45036
+  },
+  {
+    "designation": "Filtre de Refroidissement",
+    "reference": "WC-7101",
+    "code": "FIRFD0003",
+    "quantite": 8,
+    "prixUnitaire": 59470
+  },
+  {
+    "designation": "Filtre de Refroidissement",
+    "reference": "WF2096",
+    "code": "FIRFD0004",
+    "quantite": 1,
+    "prixUnitaire": 44887
+  },
+  {
+    "designation": "Filtre de Refroidissement",
+    "reference": "WC-5712",
+    "code": "FIRFD0002",
+    "quantite": 0,
+    "prixUnitaire": 81600
+  },
+  {
+    "designation": "Filtre Hydraulique",
+    "reference": "HC-5504",
+    "code": "FIHYQ0055",
+    "quantite": 34,
+    "prixUnitaire": 164026
+  },
+  {
+    "designation": "Filtre Hydraulique",
+    "reference": "HC-7935",
+    "code": "FIHYQ0018",
+    "quantite": 12,
+    "prixUnitaire": 30897
+  },
+  {
+    "designation": "Filtre Hydraulique",
+    "reference": "HC-9901",
+    "code": "FIHYQ0014",
+    "quantite": 4,
+    "prixUnitaire": 124236
+  },
+  {
+    "designation": "Filtre Hydraulique",
+    "reference": "HC-6803",
+    "code": "FIHYQ0012",
+    "quantite": 36,
+    "prixUnitaire": 32689
+  },
+  {
+    "designation": "Filtre Hydraulique",
+    "reference": "HC-57040",
+    "code": "FIHYQ0003",
+    "quantite": 9,
+    "prixUnitaire": 103439
+  },
+  {
+    "designation": "Filtre Hydraulique",
+    "reference": "HC-2701",
+    "code": "FIHYQ0016",
+    "quantite": 9,
+    "prixUnitaire": 54182
+  },
+  {
+    "designation": "Filtre Hydraulique",
+    "reference": "HC-5801",
+    "code": "FIHYQ0017",
+    "quantite": 5,
+    "prixUnitaire": 44880
+  },
+  {
+    "designation": "Filtre Hydraulique",
+    "reference": "HC-5502",
+    "code": "FIHYQ0007",
+    "quantite": 3,
+    "prixUnitaire": 79872
+  },
+  {
+    "designation": "Filtre hydraulique",
+    "reference": "HC-51020",
+    "code": "FIHYQ0058",
+    "quantite": 0,
+    "prixUnitaire": 179503
+  },
+  {
+    "designation": "Filtre Hydraulique",
+    "reference": "HC-55180",
+    "code": "FIHYQ0040",
+    "quantite": 12,
+    "prixUnitaire": 80940
+  },
+  {
+    "designation": "Filtre Hydraulique",
+    "reference": "H-85520",
+    "code": "FIHYQ0011",
+    "quantite": 2,
+    "prixUnitaire": 14067
+  },
+  {
+    "designation": "Filtre Hydraulique",
+    "reference": "H-8515",
+    "code": "FIHYQ0019",
+    "quantite": 11,
+    "prixUnitaire": 14067
+  },
+  {
+    "designation": "Filtre Hydraulique",
+    "reference": "H-7102",
+    "code": "FIHYQ0010",
+    "quantite": 1,
+    "prixUnitaire": 67689
+  },
+  {
+    "designation": "Filtre Hydraulique",
+    "reference": "H-5001",
+    "code": "FIHYQ0013",
+    "quantite": 0,
+    "prixUnitaire": 0
+  },
+  {
+    "designation": "Filtre Hydraulique",
+    "reference": "H-5902",
+    "code": "FIHYQ0001",
+    "quantite": 0,
+    "prixUnitaire": 69846
+  },
+  {
+    "designation": "Filtre Hydraulique",
+    "reference": "H-7941",
+    "code": "FIHYQ0002",
+    "quantite": 3,
+    "prixUnitaire": 41097
+  },
+  {
+    "designation": "Filtre Hydraulique",
+    "reference": "H-5522",
+    "code": "FIHYQ0008",
+    "quantite": 6,
+    "prixUnitaire": 395250
+  },
+  {
+    "designation": "Filtre Hydraulique",
+    "reference": "H-5504",
+    "code": "FIHYQ0026",
+    "quantite": 6,
+    "prixUnitaire": 57477
+  },
+  {
+    "designation": "Filtre Hydraulique",
+    "reference": "H-5610",
+    "code": "FIHUI0160",
+    "quantite": 6,
+    "prixUnitaire": 67894
+  },
+  {
+    "designation": "Filtre à huile",
+    "reference": "H-7961",
+    "code": "FIHUI0248",
+    "quantite": 25,
+    "prixUnitaire": 19753
+  },
+  {
+    "designation": "Filtre Hydraulique",
+    "reference": "H-4904",
+    "code": "FIHYQ0015",
+    "quantite": 22,
+    "prixUnitaire": 18359
+  },
+  {
+    "designation": "Filtre à Gasoil",
+    "reference": "F-11130",
+    "code": "FIGSO0148",
+    "quantite": 50,
+    "prixUnitaire": 18234
+  },
+  {
+    "designation": "Filtre à Gasoil",
+    "reference": "F-1106",
+    "code": "FIGSO0147",
+    "quantite": 100,
+    "prixUnitaire": 16208
+  },
+  {
+    "designation": "Filtre à Gasoil",
+    "reference": "FS-1004",
+    "code": "FIGSO0030",
+    "quantite": 59,
+    "prixUnitaire": 16240
+  },
+  {
+    "designation": "Filtre à Gasoil",
+    "reference": "FS-1802",
+    "code": "FIGSO0032",
+    "quantite": 4,
+    "prixUnitaire": 14989
+  },
+  {
+    "designation": "Filtre à Gasoil",
+    "reference": "FS-8002",
+    "code": "FIGSO0036",
+    "quantite": 24,
+    "prixUnitaire": 20421
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FC-5305",
+    "code": "FIGSO0152",
+    "quantite": 48,
+    "prixUnitaire": 76482
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FC-1810",
+    "code": "FIGSO0151",
+    "quantite": 12,
+    "prixUnitaire": 30998
+  },
+  {
+    "designation": "Filtre à Gasoil",
+    "reference": "EF-5103",
+    "code": "FIGSO0024",
+    "quantite": 18,
+    "prixUnitaire": 67875
+  },
+  {
+    "designation": "Filtre à Gasoil",
+    "reference": "EF-2634",
+    "code": "FIGSO0018",
+    "quantite": 12,
+    "prixUnitaire": 57103
+  },
+  {
+    "designation": "Filtre à Gasoil",
+    "reference": "FC-5509",
+    "code": "FIGSO0098",
+    "quantite": 0,
+    "prixUnitaire": 48926
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FC-5516",
+    "code": "FIGSO0153",
+    "quantite": 12,
+    "prixUnitaire": 26818
+  },
+  {
+    "designation": "Filtre à Gasoil",
+    "reference": "FC-1007",
+    "code": "FIGSO0102",
+    "quantite": 0,
+    "prixUnitaire": 31478
+  },
+  {
+    "designation": "Filtre à Gasoil",
+    "reference": "FC-9800",
+    "code": "FIGSO0022",
+    "quantite": 0,
+    "prixUnitaire": 44880
+  },
+  {
+    "designation": "Filtre à Gasoil",
+    "reference": "FC-6505",
+    "code": "FIGSO0026",
+    "quantite": 20,
+    "prixUnitaire": 45674
+  },
+  {
+    "designation": "Filtre à Gasoil",
+    "reference": "FC-5716",
+    "code": "FIGSO0127",
+    "quantite": 117,
+    "prixUnitaire": 29539
+  },
+  {
+    "designation": "Filtre à Gasoil",
+    "reference": "FC-1503",
+    "code": "FIGSO0085",
+    "quantite": 11,
+    "prixUnitaire": 25831
+  },
+  {
+    "designation": "Filtre à Gasoil",
+    "reference": "FC-1003",
+    "code": "FIGSO0055",
+    "quantite": 50,
+    "prixUnitaire": 24328
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FC-6502",
+    "code": "FIGSO0214",
+    "quantite": 24,
+    "prixUnitaire": 26510
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FC-6501",
+    "code": "FIGSO0213",
+    "quantite": 12,
+    "prixUnitaire": 33513
+  },
+  {
+    "designation": "Filtre à Gasoil",
+    "reference": "FC-5101",
+    "code": "FIGSO0132",
+    "quantite": 18,
+    "prixUnitaire": 22933
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FC-2801",
+    "code": "FIGSO0212",
+    "quantite": 40,
+    "prixUnitaire": 39516
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FC-1801",
+    "code": "FIGSO0211",
+    "quantite": 4,
+    "prixUnitaire": 17507
+  },
+  {
+    "designation": "Filtre à Gasoil",
+    "reference": "FC-1703",
+    "code": "FIGSO0136",
+    "quantite": 40,
+    "prixUnitaire": 33513
+  },
+  {
+    "designation": "Filtre à Gasoil",
+    "reference": "FC-1104",
+    "code": "FIGSO0056",
+    "quantite": 189,
+    "prixUnitaire": 28272
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FC-1005",
+    "code": "FIGSO0210",
+    "quantite": 8,
+    "prixUnitaire": 20405
+  },
+  {
+    "designation": "Filtre à Gasoil",
+    "reference": "FC-1803",
+    "code": "FIGSO0137",
+    "quantite": 48,
+    "prixUnitaire": 30394
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FC-1009",
+    "code": "FIGSO0149",
+    "quantite": 25,
+    "prixUnitaire": 29883
+  },
+  {
+    "designation": "Filtre à Gasoil",
+    "reference": "FC-1702",
+    "code": "FIGSO0150",
+    "quantite": 40,
+    "prixUnitaire": 37819
+  },
+  {
+    "designation": "Filtre à Gasoil",
+    "reference": "FC-1001",
+    "code": "FIGSO0095",
+    "quantite": 221,
+    "prixUnitaire": 31648
+  },
+  {
+    "designation": "Filtre à Gasoil",
+    "reference": "FC-5613",
+    "code": "FIGSO0197",
+    "quantite": 0,
+    "prixUnitaire": 59126
+  },
+  {
+    "designation": "Filtre à Gasoil",
+    "reference": "SN 30040",
+    "code": "FIGSO0157",
+    "quantite": 2,
+    "prixUnitaire": 160480
+  },
+  {
+    "designation": "Filtre Separateur Gasoil / Eau",
+    "reference": "SN 40750",
+    "code": "FISGE0057",
+    "quantite": 4,
+    "prixUnitaire": 262080
+  },
+  {
+    "designation": "Filtre à Gasoil",
+    "reference": "SN 55418",
+    "code": "FIGSO0140",
+    "quantite": 0,
+    "prixUnitaire": 103496
+  },
+  {
+    "designation": "Filtre à huile",
+    "reference": "EH-55010",
+    "code": "FIHYQ0094",
+    "quantite": 20,
+    "prixUnitaire": 162081
+  },
+  {
+    "designation": "Filtre Séparateur",
+    "reference": "K-76010",
+    "code": "FIHUI0162",
+    "quantite": 28,
+    "prixUnitaire": 133177
+  },
+  {
+    "designation": "Filtre Separateur Huile / Air",
+    "reference": "SAC-79070",
+    "code": "FISHA0003",
+    "quantite": 6,
+    "prixUnitaire": 158536
+  },
+  {
+    "designation": "Filtre à Air",
+    "reference": "SAC-7904",
+    "code": "FIAIR0221",
+    "quantite": 12,
+    "prixUnitaire": 220836
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FC-1804",
+    "code": "FIGSO0043",
+    "quantite": 11,
+    "prixUnitaire": 23827
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FC-1805",
+    "code": "FIGSO0059",
+    "quantite": 0,
+    "prixUnitaire": 28137
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FC-5116",
+    "code": "FIGSO0052",
+    "quantite": 0,
+    "prixUnitaire": 15956
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FC-5507",
+    "code": "FIGSO0063",
+    "quantite": 41,
+    "prixUnitaire": 47430
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FC-5110",
+    "code": "FIGSO0061",
+    "quantite": 4,
+    "prixUnitaire": 35664
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FC-5508",
+    "code": "FIGSO0225",
+    "quantite": 11,
+    "prixUnitaire": 31160
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FC-5103",
+    "code": "FIGSO0051",
+    "quantite": 13,
+    "prixUnitaire": 24990
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FC-6202",
+    "code": "FIGSO0065",
+    "quantite": 0,
+    "prixUnitaire": 37230
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FC-1006",
+    "code": "FIGSO0042",
+    "quantite": 50,
+    "prixUnitaire": 24960
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FC-6506",
+    "code": "FIGSO0027",
+    "quantite": 6,
+    "prixUnitaire": 48657
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FC-6201",
+    "code": "FIGSO0103",
+    "quantite": 62,
+    "prixUnitaire": 28809
+  },
+  {
+    "designation": "Filtre à huile",
+    "reference": "FC-25040",
+    "code": "FIGSO0060",
+    "quantite": 22,
+    "prixUnitaire": 62570
+  },
+  {
+    "designation": "Filtre à carburant",
+    "reference": "FC-1002",
+    "code": "FIGSO0054",
+    "quantite": 50,
+    "prixUnitaire": 19703
+  },
+  {
+    "designation": "Filtre à Gasoil",
+    "reference": "FC-1807",
+    "code": "FIGSO0044",
+    "quantite": 239,
+    "prixUnitaire": 23074
+  },
+  {
+    "designation": "Filtre à carburant",
+    "reference": "FC-51170",
+    "code": "FIGSO0053",
+    "quantite": 10,
+    "prixUnitaire": 80226
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FC-5502",
+    "code": "FIGSO0020",
+    "quantite": 3,
+    "prixUnitaire": 48195
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FC-5510",
+    "code": "FIGSO0029",
+    "quantite": 15,
+    "prixUnitaire": 99348
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FC-5704",
+    "code": "FIGSO0039",
+    "quantite": 1,
+    "prixUnitaire": 17100
+  },
+  {
+    "designation": "Filtre à carburant",
+    "reference": "FC-1806",
+    "code": "FIGSO0068",
+    "quantite": 149,
+    "prixUnitaire": 28297
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FC-7104",
+    "code": "FIGSO0021",
+    "quantite": 177,
+    "prixUnitaire": 74930
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FC-7102",
+    "code": "FIGSO0066",
+    "quantite": 23,
+    "prixUnitaire": 32171
+  },
+  {
+    "designation": "Filtre à carburant",
+    "reference": "FC-5618",
+    "code": "FIGSO0038",
+    "quantite": 21,
+    "prixUnitaire": 14776
+  },
+  {
+    "designation": "Filtre à carburant",
+    "reference": "FC-5517",
+    "code": "FIGSO0064",
+    "quantite": 8,
+    "prixUnitaire": 59364
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FC-2205",
+    "code": "FIGSO0019",
+    "quantite": 18,
+    "prixUnitaire": 63461
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FC-6204",
+    "code": "FIGSO0067",
+    "quantite": 0,
+    "prixUnitaire": 36720
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FC-5703",
+    "code": "FIGSO0025",
+    "quantite": 0,
+    "prixUnitaire": 89751
+  },
+  {
+    "designation": "Filtre à carburant",
+    "reference": "FC-5504",
+    "code": "FIGSO0062",
+    "quantite": 55,
+    "prixUnitaire": 45922
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "EF-5101",
+    "code": "FIGSO0028",
+    "quantite": 23,
+    "prixUnitaire": 71196
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "EF-51040",
+    "code": "FIGSO0041",
+    "quantite": 10,
+    "prixUnitaire": 52531
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "EF-5102",
+    "code": "FIGSO0040",
+    "quantite": 7,
+    "prixUnitaire": 54882
+  },
+  {
+    "designation": "Filtre à carburant",
+    "reference": "EF-68030",
+    "code": "FIGSO0016",
+    "quantite": 55,
+    "prixUnitaire": 78069
+  },
+  {
+    "designation": "Filtre à carburant",
+    "reference": "FF5114",
+    "code": "FIGSO0007",
+    "quantite": 7,
+    "prixUnitaire": 29925
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FF5135",
+    "code": "FIGSO0006",
+    "quantite": 13,
+    "prixUnitaire": 59811
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FF5105",
+    "code": "FIGSO0001",
+    "quantite": 0,
+    "prixUnitaire": 79541
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FF5054",
+    "code": "FIGSO0009",
+    "quantite": 3,
+    "prixUnitaire": 32319
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FF5771",
+    "code": "FIGSO0010",
+    "quantite": 1,
+    "prixUnitaire": 112217
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FF5272",
+    "code": "FIGSO0014",
+    "quantite": 0,
+    "prixUnitaire": 51351
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FF5317",
+    "code": "FIGSO0005",
+    "quantite": 1,
+    "prixUnitaire": 121016
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FF5471",
+    "code": "FIGSO0004",
+    "quantite": 4,
+    "prixUnitaire": 68137
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FF5465",
+    "code": "FIGSO0013",
+    "quantite": 1,
+    "prixUnitaire": 228746
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FF147",
+    "code": "FIGSO0008",
+    "quantite": 3,
+    "prixUnitaire": 112217
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FF5354",
+    "code": "FIGSO0003",
+    "quantite": 1,
+    "prixUnitaire": 119760
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FF5160",
+    "code": "FIGSO0011",
+    "quantite": 0,
+    "prixUnitaire": 0
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": 5010477855,
+    "code": "FIGSO0012",
+    "quantite": 2,
+    "prixUnitaire": 0
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FF228",
+    "code": "FIGSO0015",
+    "quantite": 1,
+    "prixUnitaire": 46504
+  },
+  {
+    "designation": "Filtre separateur Gasoil/Eau",
+    "reference": "FS19591",
+    "code": "FISGE0007",
+    "quantite": 1,
+    "prixUnitaire": 194810
+  },
+  {
+    "designation": "Filtre separateur Gasoil/Eau",
+    "reference": "FS19735",
+    "code": "FISGE0023",
+    "quantite": 2,
+    "prixUnitaire": 72200
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "F-2602",
+    "code": "FIGSO0034",
+    "quantite": 0,
+    "prixUnitaire": 15653
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "F-2606",
+    "code": "FIGSO0069",
+    "quantite": 19,
+    "prixUnitaire": 19060
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "F-2603",
+    "code": "FIGSO0048",
+    "quantite": 0,
+    "prixUnitaire": 17340
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "F-1805",
+    "code": "FIGSO0023",
+    "quantite": 0,
+    "prixUnitaire": 26278
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "F-62010",
+    "code": "FIGSO0049",
+    "quantite": 5,
+    "prixUnitaire": 35397
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "F-2601",
+    "code": "FIGSO0035",
+    "quantite": 8,
+    "prixUnitaire": 16503
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "F-1803",
+    "code": "FIGSO0058",
+    "quantite": 10,
+    "prixUnitaire": 13324
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "F-5504",
+    "code": "FIGSO0017",
+    "quantite": 0,
+    "prixUnitaire": 26418
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "F-5505",
+    "code": "FIGSO0033",
+    "quantite": 26,
+    "prixUnitaire": 15810
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-87530",
+    "code": "FIAIR0005",
+    "quantite": 27,
+    "prixUnitaire": 31513
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "AC-25010",
+    "code": "FIAIR0137",
+    "quantite": 1,
+    "prixUnitaire": 136673
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "AH-2404",
+    "code": "FIAIR0039",
+    "quantite": 8,
+    "prixUnitaire": 0
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "AH-7911",
+    "code": "FIAIR0139",
+    "quantite": 4,
+    "prixUnitaire": 0
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "BF7677D",
+    "code": "FISGE0024",
+    "quantite": 0,
+    "prixUnitaire": 66810
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "AS-5628",
+    "code": "FIAIR0041",
+    "quantite": 6,
+    "prixUnitaire": 56245
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "AS-8564",
+    "code": "FIAIR0043",
+    "quantite": 4,
+    "prixUnitaire": 81498
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "AH-5201",
+    "code": "FIAIR0029",
+    "quantite": 5,
+    "prixUnitaire": 99278
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-6706-S",
+    "code": "FIAIR0025",
+    "quantite": 3,
+    "prixUnitaire": 92009
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-7957",
+    "code": "FIAIR0095",
+    "quantite": 12,
+    "prixUnitaire": 185156
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-5714",
+    "code": "FIAIR0087",
+    "quantite": 0,
+    "prixUnitaire": 204121
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-8548",
+    "code": "FIAIR0017",
+    "quantite": 33,
+    "prixUnitaire": 28211
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-5541-S",
+    "code": "FIAIR0028",
+    "quantite": 0,
+    "prixUnitaire": 63586
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-44200",
+    "code": "FIAIR0008",
+    "quantite": 4,
+    "prixUnitaire": 56568
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-61450",
+    "code": "FIAIR0016",
+    "quantite": 37,
+    "prixUnitaire": 35258
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-16930",
+    "code": "FIAIR0116",
+    "quantite": 3,
+    "prixUnitaire": 28137
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-1508",
+    "code": "FIAIR0001",
+    "quantite": 2,
+    "prixUnitaire": 38680
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-5108",
+    "code": "FIAIR0007",
+    "quantite": 4,
+    "prixUnitaire": 40308
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-5301-S",
+    "code": "FIAIR0121",
+    "quantite": 0,
+    "prixUnitaire": 127116
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-5301",
+    "code": "FIAIR0053",
+    "quantite": 6,
+    "prixUnitaire": 106020
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-5409",
+    "code": "FIAIR0104",
+    "quantite": 0,
+    "prixUnitaire": 307020
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-5505",
+    "code": "FIAIR0068",
+    "quantite": 0,
+    "prixUnitaire": 109261
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-8525",
+    "code": "FIAIR0096",
+    "quantite": 13,
+    "prixUnitaire": 242337
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-8579-S",
+    "code": "FIAIR0093",
+    "quantite": 17,
+    "prixUnitaire": 326695
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-5903",
+    "code": "FIAIR0052",
+    "quantite": 24,
+    "prixUnitaire": 63257
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-7123",
+    "code": "FIAIR0063",
+    "quantite": 0,
+    "prixUnitaire": 137921
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-71340",
+    "code": "FIAIR0058",
+    "quantite": 5,
+    "prixUnitaire": 157624
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-7964",
+    "code": "FIAIR0002",
+    "quantite": 0,
+    "prixUnitaire": 28042
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-8670",
+    "code": "FIAIR0004",
+    "quantite": 4,
+    "prixUnitaire": 47519
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-6303",
+    "code": "FIAIR0064",
+    "quantite": 0,
+    "prixUnitaire": 138867
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-9218-S",
+    "code": "FIAIR0106",
+    "quantite": 6,
+    "prixUnitaire": 591086
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-9218",
+    "code": "FIAIR0105",
+    "quantite": 6,
+    "prixUnitaire": 543479
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-8577-S",
+    "code": "FIAIR0047",
+    "quantite": 8,
+    "prixUnitaire": 108978
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-8577",
+    "code": "FIAIR0046",
+    "quantite": 3,
+    "prixUnitaire": 117002
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-6009",
+    "code": "FIAIR0014",
+    "quantite": 2,
+    "prixUnitaire": 51281
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "2089065 /SEV 511 H14/ 880202869893",
+    "code": "FIAIR0109",
+    "quantite": 4,
+    "prixUnitaire": 622388
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-8553-S",
+    "code": "FIAIR0018",
+    "quantite": 9,
+    "prixUnitaire": 56846
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-8553",
+    "code": "FIAIR0136",
+    "quantite": 10,
+    "prixUnitaire": 44512
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-2418",
+    "code": "FIAIR0085",
+    "quantite": 4,
+    "prixUnitaire": 270264
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-8652-S",
+    "code": "FIAIR0075",
+    "quantite": 1,
+    "prixUnitaire": 316710
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "C-20500(01180867)",
+    "code": "FIAIR0160",
+    "quantite": 1,
+    "prixUnitaire": 438922
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-8513",
+    "code": "FIAIR0169",
+    "quantite": 4,
+    "prixUnitaire": 0
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-5531-S",
+    "code": "FIAIR0107",
+    "quantite": 10,
+    "prixUnitaire": 0
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-5534",
+    "code": "FIAIR0033",
+    "quantite": 18,
+    "prixUnitaire": 55974
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-5558-S",
+    "code": "FIAIR0073",
+    "quantite": 8,
+    "prixUnitaire": 313140
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-5559",
+    "code": "FIAIR0020",
+    "quantite": 6,
+    "prixUnitaire": 55974
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-7119-S",
+    "code": "FIAIR0229",
+    "quantite": 3,
+    "prixUnitaire": 419689
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-6207-S",
+    "code": "FIAIR0308",
+    "quantite": 0,
+    "prixUnitaire": 192579
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-5666",
+    "code": "FIAIR0061",
+    "quantite": 4,
+    "prixUnitaire": 121799
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-5673",
+    "code": "FIAIR0034",
+    "quantite": 7,
+    "prixUnitaire": 120972
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-6008",
+    "code": "FIAIR0013",
+    "quantite": 9,
+    "prixUnitaire": 40749
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-1517",
+    "code": "FIAIR0115",
+    "quantite": 22,
+    "prixUnitaire": 42371
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-6902",
+    "code": "FIAIR0309",
+    "quantite": 4,
+    "prixUnitaire": 118548
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "AF25468",
+    "code": "FIAIR0031",
+    "quantite": 1,
+    "prixUnitaire": 152079
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "AF25544 + AF25545",
+    "code": "FIAIR0114",
+    "quantite": 44,
+    "prixUnitaire": 169495
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "AF25545",
+    "code": "FIAIR0114",
+    "quantite": 4,
+    "prixUnitaire": 614000
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "AF890",
+    "code": "FIAIR0048",
+    "quantite": 11,
+    "prixUnitaire": 0
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "AF4609",
+    "code": "FIAIR0108",
+    "quantite": 1,
+    "prixUnitaire": 521502
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "AF26392",
+    "code": "FIAIR0112",
+    "quantite": 1,
+    "prixUnitaire": 98752
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "AF25627",
+    "code": "FIAIR0090",
+    "quantite": 0,
+    "prixUnitaire": 379209
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "AF25312",
+    "code": "FIAIR0067",
+    "quantite": 1,
+    "prixUnitaire": 723945
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "AF891M",
+    "code": "FIAIR0097",
+    "quantite": 1,
+    "prixUnitaire": 445462
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "AF1921M",
+    "code": "FIAIR0157",
+    "quantite": 1,
+    "prixUnitaire": 0
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "AF265",
+    "code": "FIAIR0054",
+    "quantite": 1,
+    "prixUnitaire": 166174
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-5569",
+    "code": "FIAIR0307",
+    "quantite": 4,
+    "prixUnitaire": 0
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "SA16462",
+    "code": "FIAIR0051",
+    "quantite": 2,
+    "prixUnitaire": 264297
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "SA16464",
+    "code": "FIAIR0120",
+    "quantite": 2,
+    "prixUnitaire": 131609
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "1890202 + 1517737",
+    "code": "FIAIR0123",
+    "quantite": 1,
+    "prixUnitaire": 1073975
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "AS-51540",
+    "code": "FIAIR0015",
+    "quantite": 17,
+    "prixUnitaire": 51281
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "AS-1817",
+    "code": "FIAIR0042",
+    "quantite": 26,
+    "prixUnitaire": 38680
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "AS-7805",
+    "code": "FIAIR0040",
+    "quantite": 1,
+    "prixUnitaire": 74407
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-5522",
+    "code": "FIAIR0057",
+    "quantite": 3,
+    "prixUnitaire": 78267
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-5565-S",
+    "code": "FIAIR0094",
+    "quantite": 3,
+    "prixUnitaire": 474195
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "C-20500(01180867)",
+    "code": "FIAIR0158",
+    "quantite": 1,
+    "prixUnitaire": 0
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "20405836/27",
+    "code": "FIAIR0037",
+    "quantite": 3,
+    "prixUnitaire": 274312
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "AC-7901",
+    "code": "FIAIR0010",
+    "quantite": 54,
+    "prixUnitaire": 133620
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-5111",
+    "code": "FIAIR0124",
+    "quantite": 1,
+    "prixUnitaire": 98393
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-2839",
+    "code": "FIAIR0306",
+    "quantite": 3,
+    "prixUnitaire": 0
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "AH-7913",
+    "code": "FIAIR0069",
+    "quantite": 0,
+    "prixUnitaire": 185955
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-1157",
+    "code": "FIAIR0304",
+    "quantite": 12,
+    "prixUnitaire": 0
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-17860",
+    "code": "FIAIR0305",
+    "quantite": 20,
+    "prixUnitaire": 61790
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-1812",
+    "code": "FIAIR0207",
+    "quantite": 25,
+    "prixUnitaire": 24781
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-1325",
+    "code": "FIAIR0178",
+    "quantite": 15,
+    "prixUnitaire": 124600
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-2708",
+    "code": "FIAIR0209",
+    "quantite": 4,
+    "prixUnitaire": 113457
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-2706",
+    "code": "FIAIR0208",
+    "quantite": 9,
+    "prixUnitaire": 86105
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-44270",
+    "code": "FIAIR0210",
+    "quantite": 0,
+    "prixUnitaire": 317072
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-44280",
+    "code": "FIAIR0211",
+    "quantite": 12,
+    "prixUnitaire": 67365
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-5102-S",
+    "code": "FIAIR0212",
+    "quantite": 8,
+    "prixUnitaire": 384006
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-55071-S",
+    "code": "FIAIR0213",
+    "quantite": 4,
+    "prixUnitaire": 170185
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-5507-S",
+    "code": "FIAIR0223",
+    "quantite": 0,
+    "prixUnitaire": 180822
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-5577",
+    "code": "FIAIR0214",
+    "quantite": 12,
+    "prixUnitaire": 83809
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-5631",
+    "code": "FIAIR0180",
+    "quantite": 50,
+    "prixUnitaire": 58276
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-5674",
+    "code": "FIAIR0215",
+    "quantite": 17,
+    "prixUnitaire": 28701
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-57410",
+    "code": "FIAIR0217",
+    "quantite": 4,
+    "prixUnitaire": 67894
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-5703",
+    "code": "FIAIR0216",
+    "quantite": 50,
+    "prixUnitaire": 164078
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-6210",
+    "code": "FIAIR0006",
+    "quantite": 16,
+    "prixUnitaire": 46620
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-6804",
+    "code": "FIAIR0084",
+    "quantite": 0,
+    "prixUnitaire": 186900
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-68390",
+    "code": "FIAIR0024",
+    "quantite": 9,
+    "prixUnitaire": 58276
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-7967",
+    "code": "FIAIR0218",
+    "quantite": 9,
+    "prixUnitaire": 79521
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-7973",
+    "code": "FIAIR0219",
+    "quantite": 3,
+    "prixUnitaire": 328215
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-8602-S",
+    "code": "FIAIR0161",
+    "quantite": 15,
+    "prixUnitaire": 56604
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-7003-S",
+    "code": "FIAIR0011",
+    "quantite": 4,
+    "prixUnitaire": 69226
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-1013",
+    "code": "FIAIR0179",
+    "quantite": 15,
+    "prixUnitaire": 0
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "SA 16265",
+    "code": "FIAIR0231",
+    "quantite": 2,
+    "prixUnitaire": 146720
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-5668-S",
+    "code": "FIAIR0062",
+    "quantite": 15,
+    "prixUnitaire": 180822
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-5549M-S",
+    "code": "FIAIR0135",
+    "quantite": 10,
+    "prixUnitaire": 169782
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-5568-S",
+    "code": "FIAIR0294",
+    "quantite": 4,
+    "prixUnitaire": 0
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-1840-S",
+    "code": "FIAIR0071",
+    "quantite": 39,
+    "prixUnitaire": 320790
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-5509",
+    "code": "FIAIR0076",
+    "quantite": 0,
+    "prixUnitaire": 160570
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "AH-8653",
+    "code": "FIAIR0101",
+    "quantite": 15,
+    "prixUnitaire": 249200
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "AH-7942",
+    "code": "FIAIR0100",
+    "quantite": 16,
+    "prixUnitaire": 391326
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-5014",
+    "code": "FIAIR0118",
+    "quantite": 19,
+    "prixUnitaire": 20875
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-1844",
+    "code": "FIAIR0098",
+    "quantite": 95,
+    "prixUnitaire": 34295
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-6304-S",
+    "code": "FIAIR0357",
+    "quantite": 2,
+    "prixUnitaire": 192015
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-7626",
+    "code": "FIAIR0055",
+    "quantite": 1,
+    "prixUnitaire": 158836
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-9205",
+    "code": "FIAIR0083",
+    "quantite": 4,
+    "prixUnitaire": 181328
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-2210",
+    "code": "FIAIR0060",
+    "quantite": 3,
+    "prixUnitaire": 113457
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-68400-S",
+    "code": "FIAIR0355",
+    "quantite": 27,
+    "prixUnitaire": 300123
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-7627-S",
+    "code": "FIAIR0102",
+    "quantite": 11,
+    "prixUnitaire": 424609
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-2536",
+    "code": "FIAIR0091",
+    "quantite": 4,
+    "prixUnitaire": 442095
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-8649-S",
+    "code": "FIAIR0081",
+    "quantite": 8,
+    "prixUnitaire": 278828
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-5618",
+    "code": "FIAIR0086",
+    "quantite": 0,
+    "prixUnitaire": 194535
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-5311",
+    "code": "FIAIR0012",
+    "quantite": 1,
+    "prixUnitaire": 74424
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-25370",
+    "code": "FIAIR0032",
+    "quantite": 9,
+    "prixUnitaire": 137757
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-87760",
+    "code": "FIAIR0099",
+    "quantite": 26,
+    "prixUnitaire": 355456
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-8665M",
+    "code": "FIAIR0088",
+    "quantite": 9,
+    "prixUnitaire": 283136
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "A-5107-S",
+    "code": "FIAIR0036",
+    "quantite": 2,
+    "prixUnitaire": 139146
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "H-9206",
+    "code": 0,
+    "quantite": 0,
+    "prixUnitaire": 0
+  },
+  {
+    "designation": "Filtre à huile",
+    "reference": "SO 045",
+    "code": "FIHUI0149",
+    "quantite": 0,
+    "prixUnitaire": 74160
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "SA 11852",
+    "code": "FIAIR0202",
+    "quantite": 0,
+    "prixUnitaire": 92324
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "SA 11853",
+    "code": "FIAIR0203",
+    "quantite": 0,
+    "prixUnitaire": 200613
+  },
+  {
+    "designation": "Filtre à huile",
+    "reference": "SO 11029",
+    "code": "FIHUI0170",
+    "quantite": 0,
+    "prixUnitaire": 118720
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "SN 5074",
+    "code": "FIGSO0146",
+    "quantite": 0,
+    "prixUnitaire": 29461
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "SA 16382",
+    "code": "FIAIR0228",
+    "quantite": 0,
+    "prixUnitaire": 486918
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "SA16059",
+    "code": "FIAIR0153",
+    "quantite": 0,
+    "prixUnitaire": 0
+  },
+  {
+    "designation": "Filtre hydraulique",
+    "reference": "SH 84016",
+    "code": "FIHYQ52",
+    "quantite": 0,
+    "prixUnitaire": 507435
+  },
+  {
+    "designation": "Filtre à huile",
+    "reference": "SO 9135",
+    "code": "FIHUI0003",
+    "quantite": 0,
+    "prixUnitaire": 92760
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "SN 55425",
+    "code": "FIGSO0138",
+    "quantite": 0,
+    "prixUnitaire": 85760
+  },
+  {
+    "designation": "Filtre à huile",
+    "reference": "SO 11092",
+    "code": "FIHUI0144",
+    "quantite": 0,
+    "prixUnitaire": 75376
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "SN 25069",
+    "code": "FIGSO0139",
+    "quantite": 0,
+    "prixUnitaire": 50970
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "SA 10822",
+    "code": "FIAIR0200",
+    "quantite": 0,
+    "prixUnitaire": 809985
+  },
+  {
+    "designation": "Filtre refroidissement",
+    "reference": "WE 2071",
+    "code": "FIRFD0006",
+    "quantite": 0,
+    "prixUnitaire": 100080
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "SA 16124",
+    "code": "FIAIR0230",
+    "quantite": 0,
+    "prixUnitaire": 335790
+  },
+  {
+    "designation": "Filtre à air",
+    "reference": "SA 8091",
+    "code": "FIAIR0232",
+    "quantite": 0,
+    "prixUnitaire": 116480
+  },
+  {
+    "designation": "Filtre hydraulique",
+    "reference": "SH 70156",
+    "code": "FIHYQ0060",
+    "quantite": 0,
+    "prixUnitaire": 195580
+  },
+  {
+    "designation": "Filtre hydraulique",
+    "reference": "SH 52066",
+    "code": "FIHYQ0061",
+    "quantite": 0,
+    "prixUnitaire": 903840
+  },
+  {
+    "designation": "Filtre à gasoil",
+    "reference": "FF5036",
+    "code": "FIGSO0248",
+    "quantite": 20,
+    "prixUnitaire": 63036
+  },
+  {
+    "designation": "Filtre à huile",
+    "reference": "LF3402",
+    "code": "FIHUI0260",
+    "quantite": 4,
+    "prixUnitaire": 36919
+  },
+  {
+    "designation": "Filtre separateur Gasoil / Eau",
+    "reference": "FS1235",
+    "code": "FISGE0076",
+    "quantite": 5,
+    "prixUnitaire": 36558
+  },
+  {
+    "designation": "Filtre à Gasoil",
+    "reference": "FF5105",
+    "code": "FIGSO0001",
+    "quantite": 12,
+    "prixUnitaire": 79541
+  },
+  {
+    "designation": "Filtre à carburant",
+    "reference": "ELG5521",
+    "code": "FICAB0002",
+    "quantite": 6,
+    "prixUnitaire": 25965
+  }
+]
